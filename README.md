@@ -1,4 +1,4 @@
-# custom-r1cbu
+# R1CBU 1KO125
 This is a custom version of Xiegu X6100 R1CBU firmware I developed for myself. Feel free to test it. Work is in progress.
 
 This release is based on firmware R1CBU 0.34.2 by gdyuldin available here:

@@ -10,8 +10,8 @@ Hany El Imam 1KO125
 ## License
 1KO125 is distributed as a whole under the GNU GPL v3 or later.
 The R1CBU base files remain under the LGPL 2.1.
-The WEFAX, NAVTEX/SITOR-B, DSC and SSTV applications by Hany El Imam carry an
+**The WEFAX, NAVTEX/SITOR-B, DSC and SSTV applications by Hany El Imam carry an
 additional term (GPL v3, section 7b): works containing them must keep the
-author attribution and credits shown in the Info window of each application.
+author attribution and credits shown in the Info window of each application**.
 Full details: COPYING and NOTICE-1KO125.md in the source archive of each release.
 Source code of each SD card image: the "...-src.tar.gz" file of the same release.

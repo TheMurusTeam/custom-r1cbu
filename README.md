@@ -4,7 +4,7 @@ The purpose of this firmware is to add new features to R1CBU while preserving al
 
 Enjoy!
 
-Hany El Imam 1KO125
+Hany El Imam - 1KO125
 
 
 ## License
@@ -20,5 +20,5 @@ Source code of each SD card image: the "...-src.tar.gz" file of the same release
 
 You're very welcome to! I'd just love for the Info window
 of WEFAX, NAVTEX/SITOR-B, DSC and SSTV, with its credits, to come along with
-it - a small courtesy that, as it happens, the GPL v3 (section 7b) also
-kindly asks for. 73!
+it. Thanks!
+

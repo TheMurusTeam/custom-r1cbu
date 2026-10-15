@@ -16,7 +16,7 @@ author attribution and credits shown in the Info window of each application**.
 Full details: COPYING and NOTICE-1KO125.md in the source archive of each release.
 Source code of each SD card image: the "...-src.tar.gz" file of the same release.
 
-## Reusing this code? 
+## Reusing parts of this code? 
 
 You're very welcome to! I'd just love for the Info window
 of WEFAX, NAVTEX/SITOR-B, DSC and SSTV, with its credits, to come along with
